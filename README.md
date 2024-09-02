@@ -15,7 +15,7 @@ working towards the total completion of the rendering pipeline coverting 3D obje
 </ul>
 
 ### What's my next step?:
-[next] -> Z-buffering
+Next up is: Z-buffering 
 
 <p>
   <img src="https://github.com/user-attachments/assets/08db439f-6e51-42c6-bb58-e253086c735f" alt="screenshot 1"  width="500"/>
