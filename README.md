@@ -2,14 +2,20 @@
 (WIP) </br>
 
 Building a 3D graphics renderer in Java only utilizing 2D graphics libraries (AWT). 
-Implementing from scratch all steps of the rendering pipeline coverting 3D objects into its 2D representation.
-All matrix math and perspective projection algorithms built from the ground up.
+All matrix math and perspective projection algorithms are built from the ground up, 
+working towards the total completion of the rendering pipeline coverting 3D objects into 2D representations.
 
-### What's Implemented:
+### What's implemented:
 <ul>
-  <li>h</li>
-   <li>h</li>
+  <li>Full normalized camera controls</li>
+  <li>Perspective projection</li>
+  <li>3D Objects</li>
+  <li>Triangle assembly</li>
+  <li>Rasterization</li>
 </ul>
+
+### What's my next step?:
+[next] -> Z-buffering
 
 <p>
   <img src="https://github.com/user-attachments/assets/08db439f-6e51-42c6-bb58-e253086c735f" alt="screenshot 1"  width="500"/>
